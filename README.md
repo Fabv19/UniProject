@@ -1,3 +1,3 @@
 # UniProject
 Assignment 1
-this project is based on greem IT
+this project is based on green IT
